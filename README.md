@@ -1,2 +1,2 @@
-sample-TabChildView-ios
+sample-ios-TabChildView
 =======================
