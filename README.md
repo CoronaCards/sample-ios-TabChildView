@@ -9,7 +9,7 @@ This example shows you how to embed a CoronaView into a tab.
 
 The CoronaView is instantiated just like any normal UIView. A `CoronaView` is paired with an instance of `CoronaViewController`.
 
-This example sets up the `CoronaViewController` as a child of the root view controller. This enables the `CoronaView` to be inserted anywhere in the view hierachy of the parent controller's content view.
+This example sets up the `CoronaViewController` as a child of `FirstViewController` which is the view controller for the first tab. This enables the `CoronaView` to be inserted anywhere in the view hierachy of the first tab.
 
 ## CoronaView contents (Lua)
 
