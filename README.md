@@ -1,7 +1,7 @@
 sample-ios-TabChildView
 =======================
 
-This example shows you how to _embed_ a CoronaView into an existing view hierarchy. In this case, a tab.
+This example shows you how to __embed__ a CoronaView into an existing view hierarchy. In this case, placing the view inside the contents of a tab view.
 
 # Code Overview
 
