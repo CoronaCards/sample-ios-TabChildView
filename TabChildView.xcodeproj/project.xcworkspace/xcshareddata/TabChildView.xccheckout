@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>826E3587-C4C7-489A-9E4C-E94D63E5C02E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TabChildView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2E34F07C-85B6-473F-BA0B-C0C7075D22D3</key>
+		<string>https://github.com/coronakit/sample-ios-TabChildView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TabChildView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2E34F07C-85B6-473F-BA0B-C0C7075D22D3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/coronakit/sample-ios-TabChildView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2E34F07C-85B6-473F-BA0B-C0C7075D22D3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2E34F07C-85B6-473F-BA0B-C0C7075D22D3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sample-ios-TabChildView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

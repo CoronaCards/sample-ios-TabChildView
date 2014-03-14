@@ -7,7 +7,7 @@
 
 #import "FirstViewController.h"
 
-#import "CoronaKit/CoronaKit.h"
+#import "CoronaCards/CoronaCards.h"
 
 @interface FirstViewController ()
 

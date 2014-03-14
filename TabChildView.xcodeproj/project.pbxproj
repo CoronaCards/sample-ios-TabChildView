@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		070F39B918D1350F00BC2BEE /* CoronaCards.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 070F39B818D1350E00BC2BEE /* CoronaCards.framework */; };
 		071BF71518905EAA0032F15D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 071BF71418905EAA0032F15D /* Foundation.framework */; };
 		071BF71718905EAA0032F15D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 071BF71618905EAA0032F15D /* CoreGraphics.framework */; };
 		071BF71918905EAB0032F15D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 071BF71818905EAA0032F15D /* UIKit.framework */; };
@@ -45,7 +46,6 @@
 		071BF785189061010032F15D /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = 071BF780189061010032F15D /* ground.png */; };
 		071BF786189061010032F15D /* main.lua in Resources */ = {isa = PBXBuildFile; fileRef = 071BF781189061010032F15D /* main.lua */; };
 		071BF787189061010032F15D /* sky.png in Resources */ = {isa = PBXBuildFile; fileRef = 071BF782189061010032F15D /* sky.png */; };
-		A457BE1018B30B52005CEEB4 /* CoronaKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A457BE0F18B30B52005CEEB4 /* CoronaKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +59,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		070F39B818D1350E00BC2BEE /* CoronaCards.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoronaCards.framework; path = ../../../../Shared/CoronaLabs/ios/CoronaCards.framework; sourceTree = "<group>"; };
 		071BF71118905EAA0032F15D /* TabChildView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabChildView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		071BF71418905EAA0032F15D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		071BF71618905EAA0032F15D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -103,7 +104,6 @@
 		071BF780189061010032F15D /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ground.png; path = Corona/ground.png; sourceTree = "<group>"; };
 		071BF781189061010032F15D /* main.lua */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = main.lua; path = Corona/main.lua; sourceTree = "<group>"; };
 		071BF782189061010032F15D /* sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sky.png; path = Corona/sky.png; sourceTree = "<group>"; };
-		A457BE0F18B30B52005CEEB4 /* CoronaKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoronaKit.framework; path = /Users/Shared/CoronaLabs/ios/CoronaKit.framework; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,7 +122,6 @@
 				071BF72718905EAB0032F15D /* CoreMedia.framework in Frameworks */,
 				071BF71918905EAB0032F15D /* UIKit.framework in Frameworks */,
 				071BF71518905EAA0032F15D /* Foundation.framework in Frameworks */,
-				A457BE1018B30B52005CEEB4 /* CoronaKit.framework in Frameworks */,
 				071BF72118905EAB0032F15D /* AVFoundation.framework in Frameworks */,
 				071BF71F18905EAB0032F15D /* AudioToolbox.framework in Frameworks */,
 				071BF72918905EAB0032F15D /* CoreMotion.framework in Frameworks */,
@@ -132,6 +131,7 @@
 				071BF72D18905EAB0032F15D /* GLKit.framework in Frameworks */,
 				071BF72B18905EAB0032F15D /* CoreVideo.framework in Frameworks */,
 				071BF73718905EAB0032F15D /* OpenGLES.framework in Frameworks */,
+				070F39B918D1350F00BC2BEE /* CoronaCards.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,7 +170,7 @@
 		071BF71318905EAA0032F15D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A457BE0F18B30B52005CEEB4 /* CoronaKit.framework */,
+				070F39B818D1350E00BC2BEE /* CoronaCards.framework */,
 				071BF71418905EAA0032F15D /* Foundation.framework */,
 				071BF71618905EAA0032F15D /* CoreGraphics.framework */,
 				071BF71818905EAA0032F15D /* UIKit.framework */,
