@@ -2,7 +2,7 @@
 //  FirstViewController.h
 //  TabChildView
 //
-//  Copyright (c) 2014 Bryan Smith. All rights reserved.
+//  Copyright (c) 2014 Corona Labs Inc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
