@@ -41,6 +41,7 @@
 		071BF76718905EAB0032F15D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 071BF71818905EAA0032F15D /* UIKit.framework */; };
 		071BF76F18905EAB0032F15D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 071BF76D18905EAB0032F15D /* InfoPlist.strings */; };
 		071BF77118905EAB0032F15D /* TabChildViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 071BF77018905EAB0032F15D /* TabChildViewTests.m */; };
+		E679995D1BFD311600300582 /* GameController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E679995C1BFD311600300582 /* GameController.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +95,7 @@
 		071BF76C18905EAB0032F15D /* TabChildViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TabChildViewTests-Info.plist"; sourceTree = "<group>"; };
 		071BF76E18905EAB0032F15D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		071BF77018905EAB0032F15D /* TabChildViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabChildViewTests.m; sourceTree = "<group>"; };
+		E679995C1BFD311600300582 /* GameController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameController.framework; path = System/Library/Frameworks/GameController.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E679995D1BFD311600300582 /* GameController.framework in Frameworks */,
 				071BF71718905EAA0032F15D /* CoreGraphics.framework in Frameworks */,
 				071BF73D18905EAB0032F15D /* SystemConfiguration.framework in Frameworks */,
 				071BF73118905EAB0032F15D /* MediaPlayer.framework in Frameworks */,
@@ -160,6 +163,7 @@
 		071BF71318905EAA0032F15D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E679995C1BFD311600300582 /* GameController.framework */,
 				070F39B818D1350E00BC2BEE /* CoronaCards.framework */,
 				071BF71418905EAA0032F15D /* Foundation.framework */,
 				071BF71618905EAA0032F15D /* CoreGraphics.framework */,
