@@ -3,6 +3,11 @@ sample-ios-TabChildView
 
 This example shows you how to __embed__ a CoronaView into an existing view hierarchy. In this case, placing the view inside the contents of a tab view.
 
+### `license.ccdata`
+
+In order for any CoronaCards project to work, you must put a valid `license.ccdata` file into the `Corona`  folder (near `main.lua`), otherwise you'll get a black screen and error message in the console.
+
+
 # Code Overview
 
 ## CoronaView setup (Obj-C)
